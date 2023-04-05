@@ -1,0 +1,16 @@
+img{
+column-width: 100%;
+width: 1300px;
+height: 400px;
+}
+#linha-horizontal {
+height: 4px;
+border-right: 1px;
+background: red;
+}
+
+img/#a{
+width: 1px;
+height: 5px;
+object-fit: contain;
+}

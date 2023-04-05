@@ -1,0 +1,17 @@
+div{
+text-align: center;
+background: black;
+border-color: white;
+color: white;
+font-style: italic;
+font-size: x-large;
+}
+
+#linha-horizontal {
+height: 160px;
+border-right: 160px;
+background: black;
+}
+
+
+
